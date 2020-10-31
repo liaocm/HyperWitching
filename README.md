@@ -1,5 +1,7 @@
 # HyperWitching
 
+[http://mitama.shop/](https://mitama.shop)
+
 RIP NA Server.
 
 Magireco is slow. Even with the latest 3x speed in battles, it still feels too slow to play with.

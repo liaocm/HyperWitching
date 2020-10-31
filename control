@@ -1,0 +1,9 @@
+Package: com.mitama.shop.hyperwitching
+Name: HyperWitching
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mitama's special tool to help you hunt down witches faster.
+Maintainer: NA Refugee
+Author: NA Refugee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
